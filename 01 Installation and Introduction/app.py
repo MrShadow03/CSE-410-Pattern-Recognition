@@ -1,0 +1,1 @@
+#! https://aqemery.github.io/learn-python/basics

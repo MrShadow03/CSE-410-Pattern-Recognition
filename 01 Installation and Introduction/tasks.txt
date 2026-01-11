@@ -1,0 +1,7 @@
+1. Installing Python Interpreter (3.14)
+2. Installing an IDE (VS Code or PyCharm)
+3. Setting up VS Code for Python Programming
+4. Introduction to Python Notebooks (Jupyter)
+5. Setting up Google Colab.
+6. Writing and Running Your First Python Script
+7. Installing Python Packages (NumPy, Pandas, Matplotlib)
