@@ -16,11 +16,6 @@ gray = cv2.imread("cliff.jpg", 0)
 brightness = gray.mean()
 contrast = gray.std()
 
-
-
-
-
-
 img_data = [{
     "height" : h,
     "width" : w,
